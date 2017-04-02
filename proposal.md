@@ -11,11 +11,11 @@ In my building there are 4 cars and only one garage parking spot. Nobody in the 
 ## Component Parts
 
 Elegoo HC-SR04 Ultrasonic Module Distance Sensor
-Arduino 
-Breadboard
-Large Red LED
-Long Cables ( to connect led to breadboard
-Transistors
+- Arduino 
+- Breadboard
+- Large Red LED
+- Long Cables ( to connect led to breadboard
+- Transistors
 
 
 (https://github.com/hbrentlinger/Final-Project/blob/master/IMG_8380%20copy.jpg)
@@ -29,7 +29,7 @@ I think it will be hard to build a device that can work around the garage door o
 
 - Week 1: Write proposal
 - Week 2: Research / order parts
-Week 3: Construction
+- Week 3: Construction
 - Week 4: Construction
 - Week 5: Present!
 
