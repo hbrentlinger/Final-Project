@@ -18,6 +18,7 @@ Long Cables ( to connect led to breadboard
 Transistors
 
 
+(https://github.com/hbrentlinger/Final-Project/blob/master/IMG_8380%20copy.jpg)
 
 
 ## Challenges
