@@ -25,6 +25,19 @@ Elegoo HC-SR04 Ultrasonic Module Distance Sensor
 
 I think it will be hard to build a device that can work around the garage door opening and shutting. I hope that by mounting the distance sensor on the ceiling I will be able to have the light turn on every time an object is within ~4 feet of it. I believe the ceiling is 12 feet from the ground. 
 
+Some problems I came across while building my board include purchasing an incompatible sensor, the garage being use and purchasing the wrong resistors. 
+
+## How I Did It
+
+To complete this task I chose to hang the sensor from the ceiling of my garage. The sensor looks downwards towards the parked car. If the truck is parked in the garage the distance is further and I can program the sensor to trigger the light at a further distance indicating which car is parked in the garage. 
+
+## What I Learned 
+
+Throughout this process I learned that I am capable of programing my own electronic devices. This project has made me perceive the objects I use on a daily basis in a new light. I now better understand the underlying components to how my devices work.
+
+## What to do diferently next time
+
+Next time I will be sure to purchase parts that I am positive are compatible with my hardware. I will also be sure to reserve the space that I need in order to actually test the device in its intended environment.
 
 ## Timeline
 
